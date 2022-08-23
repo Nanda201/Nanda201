@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kishore  
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python project
+- 👀 I’m interested in learning ReactJs
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on ReactJs project
 - 📫 How to reach me 
 
 <!---
